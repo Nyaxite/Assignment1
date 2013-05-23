@@ -9,6 +9,15 @@ Program description: This program uses a series of yes or no questions.
     the test? Or will you explore the hilarious ways to die?
     There are currently three decision levels: Breakfast, Travel and Classroom.
 Version: 1.0
+- Added final external documentation
+- First full release
+- Added several inline and block comments for methods
+- Changed name for some methods
+- Convert all input to lower
+- main() now also uses getChoice() for input validation
+- Added "*" before each statement to signal text
+- Added >> and << around each question to signal user input
+- Other minor changes to text
 @author: Michael Burnie
 '''
 
